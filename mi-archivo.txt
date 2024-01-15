@@ -1,1 +1,1 @@
-Ciao! JavaScript
+Ciao! JavaScript (js)
